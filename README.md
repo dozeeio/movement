@@ -8,7 +8,7 @@ People move during their sleep. These movements are very important to track musc
 The image below represents normal time series data without movement. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30309761/28403582-f2f20c48-6d42-11e7-8c76-621508bb4389.png" width="1366" height="677"/>
+  <img src="https://user-images.githubusercontent.com/30309761/28408456-22591780-6d55-11e7-8246-709aaefbc838.png" width="1366" height="677"/>
 </p>
 
 The image below represents time series data with movement.
